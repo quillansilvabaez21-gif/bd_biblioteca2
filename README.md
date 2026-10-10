@@ -3,6 +3,7 @@ trabajo practico N°9
 
 parte 1
 1. Requisitos Funcionales (Orientados a los Datos)
+   
 Gestión de Socios: El sistema debe permitir registrar, actualizar y dar de alta a nuevos socios de la biblioteca, almacenando obligatoriamente su nombre, apellido, teléfono y DNI único.
 
 Registro de Catálogo Literario: El sistema debe permitir registrar libros indicando su título, año de publicación, editorial correspondiente y género literario, vinculándolos a uno o más autores.
@@ -14,6 +15,7 @@ Registro de Préstamos: El sistema debe permitir registrar un préstamo de libro
 Control de Personal: El sistema debe permitir administrar los datos de los bibliotecarios (nombre, apellido, DNI) que operan en el sistema y realizan las gestiones de atención a los socios.
 
 2. Listado Descriptivo de Consultas Principales
+   
 Consultas Simples (Búsquedas y Listados Básicos)
 Listado de socios: Mostrar el listado completo de todos los socios registrados en la biblioteca, ordenados alfabéticamente por apellido y nombre.
 

@@ -1,5 +1,7 @@
 # bd_biblioteca2
 trabajo practico N°9
+Definicion:
+La base de datos tiene como objetivo organizar y administrar la información relacionada con los libros, sus autores, editoriales y géneros literarios, así como también los ejemplares físicos disponibles. Además, permite registrar los datos de los socios y bibliotecarios, controlar los préstamos y llevar un registro de las fechas de préstamo y devolución. De esta manera, facilita la búsqueda de información, el control del material bibliográfico y la gestión de las actividades diarias de la biblioteca.
 
 parte 1
 1. Requisitos Funcionales (Orientados a los Datos)
